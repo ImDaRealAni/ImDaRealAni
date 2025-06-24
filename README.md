@@ -2,7 +2,7 @@
 
 I'm ImDaRealAni (AKA simply 'Ani'). I'm an aspiring engineer from Minnesota with a strong interest in aerospace and programming. 
 
-### Past and Current Interests
+### Past Interests
 
 - In the past, I worked on various web development projects, mostly favoring use of the [Symfony PHP framework](https://github.com/symfony/symfony).
 - I also worked extensively on Minecraft third-party server development in the past, including [PocketMine-MP](https://github.com/pmmp/PocketMine-MP), [Paper](https://github.com/PaperMC/Paper), and [Dragonfly](https://github.com/df-mc/dragonfly) (in which I was given [a shout-out as a project contributor](https://github.com/df-mc/dragonfly/blob/master/server/session/enchantment_texts.go#L7)).
